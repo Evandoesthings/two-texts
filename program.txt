@@ -1,0 +1,5 @@
+change the word and to with
+reverse the entire text
+read the entire text backwards
+reverse the entire text again
+read the text forwards
